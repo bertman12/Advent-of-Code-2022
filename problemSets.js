@@ -1,4 +1,4 @@
-export const data = `
+export const PS_day1 = `
 17034
 
 13495

@@ -1,4 +1,4 @@
-import { data } from './day1_input.js';
+import { PS_day1 } from './problemSets.js';
 /**
  * --- Day 1: Calorie Counting ---
  */
@@ -27,7 +27,7 @@ import { data } from './day1_input.js';
  * Correct Answer: 71023
  */
 
-const parsedData = data.split('\n');
+const parsedData = PS_day1.split('\n');
 
 let mostCalories = 0;
 let localSum = 0;
